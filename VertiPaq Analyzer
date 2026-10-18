@@ -1,0 +1,3 @@
+## Model Optimization
+
+Analyzed the data model with VertiPaq Analyzer (DAX Studio). Disabling Auto date/time removed 9 hidden date tables that made up about 65% of the model size.
